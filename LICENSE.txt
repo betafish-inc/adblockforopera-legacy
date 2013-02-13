@@ -1,4 +1,4 @@
-Copyright (C) 2012, the AdBlock for Opera project members
+Copyright (C) 2013, the AdBlock for Opera project members
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
